@@ -22,7 +22,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <LottieView
-          source={require("./animations/duck_blue_style.json")}
+          source={require("./animations/checkmark.json")}
           autoPlay
           loop
         />
